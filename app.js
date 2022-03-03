@@ -1,4 +1,4 @@
-function nom() {
+ function nom() {
     console.log('Eating rice.')
 }
 
