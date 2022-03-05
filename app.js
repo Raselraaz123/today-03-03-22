@@ -13,3 +13,4 @@ setTimeout(somethingInSide,5000);
 console.log('three:Gone')
 setTimeout(nom);
 console.log('go to Newmarket')
+console.log('rasel')
